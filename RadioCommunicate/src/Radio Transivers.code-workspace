@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\RadioRecive"
+		},
+		{
+			"name": "RadioCommunicate",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

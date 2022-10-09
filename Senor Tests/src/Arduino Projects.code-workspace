@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Arduino Bracket Picker"
+		},
+		{
+			"name": "SevoTests",
+			"path": "..\\..\\SevoTests"
+		},
+		{
+			"name": "Arduino Clock",
+			"path": "..\\..\\Arduino Clock"
+		},
+		{
+			"name": "Ultrasonic Display Test",
+			"path": "..\\..\\Ultrasonic Display Test"
+		},
+		{
+			"name": "Light amplification by stimulated emission of radiation Tests",
+			"path": "..\\..\\Light amplification by stimulated emission of radiation Tests"
+		},
+		{
+			"name": "Senor Tests",
+			"path": ".."
+		},
+		{
+			"name": "ServoControl",
+			"path": "..\\..\\ServoControl"
+		},
+		{
+			"name": "RadioCommunicate",
+			"path": "..\\..\\RadioCommunicate"
+		},
+		{
+			"name": "RadioRecive",
+			"path": "..\\..\\RadioRecive"
+		}
+	],
+	"settings": {}
+}
